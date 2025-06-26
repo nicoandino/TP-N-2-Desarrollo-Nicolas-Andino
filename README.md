@@ -67,7 +67,8 @@ en cmd:
 python insert_alumnos.py
 
 Este archivo se encargará de insertar los registros en la base de datos utilizando paralelización y procesamiento por lotes para mejorar el rendimiento
-
+📌IMPORTANTE📌
+En la consola quizas le figurara que se carga en test_sysacad, pero se carga si o si en dev_sysacad 
 ------
 ⚡ Optimización
 Si querés mejorar el tiempo de carga según tu CPU y memoria RAM disponible, podés modificar las siguientes líneas en insert_alumnos.py (líneas 20 y 21 aproximadamente):
