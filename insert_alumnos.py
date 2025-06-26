@@ -16,7 +16,7 @@ from app import create_app, db
 from app.models.alumnos import Alumnos
 
 
-CSV_FILE = os.path.join(BASE_DIR, 'alumnos.csv')
+CSV_FILE ='alumnos.csv'
 BATCH_SIZE = 100_000  # cantidad de registros por lote, aumentar a 200_000 si se tiene suficiente memoria
 MAX_WORKERS = 6       # numero de hilos para inserción paralela, aumentar a 8/16 segun cpu
 POOL_MINCONN = MAX_WORKERS
