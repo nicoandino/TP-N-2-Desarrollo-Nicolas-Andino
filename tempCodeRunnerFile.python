@@ -1,0 +1,12 @@
+import csv
+
+ruta_csv = 'alumnos.csv'  # Cambia esto por el nombre o ruta de tu archivo
+
+contador = 0
+
+with open(ruta_csv, mode='r', encoding='utf-8') as archivo:
+    lector = csv.reader(archivo)
+    for fila in lector:
+        contador += len(fila)
+
+print(f"Cantidad total de elementos en el CSV: {contador}")

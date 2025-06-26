@@ -1,0 +1,2463 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<especialidad>800</especialidad>
+		<nombre>Actividades Acad�micas de Posgrado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<nombre>An�lisis de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<nombre>An�lisis de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>3</especialidad>
+		<nombre>An�lisis Universitario Sistemas (I.S.I.) * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>785</especialidad>
+		<nombre>Bachillerato c/orient. Tecnol�gica en Construcciones Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>788</especialidad>
+		<nombre>Bachillerato p/Adultos Nivel Secundario - Ori. Gestion y Adm</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>599</especialidad>
+		<nombre>Bioingenier�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>557</especialidad>
+		<nombre>C.P.A Fisicoqu�mica de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>554</especialidad>
+		<nombre>C.P.A La Evaluaci�n de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>556</especialidad>
+		<nombre>C.P.A La Evaluaci�n de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>555</especialidad>
+		<nombre>C.P.A Selec. y Ctrl. de Procesos de Soldadura por Acto Elec</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>517</especialidad>
+		<nombre>C.P.A T�picos Avanzados sobre Tecnolog�a CMOS</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>366</especialidad>
+		<nombre>C.P.A. Administraci�n de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>210</especialidad>
+		<nombre>C.P.A. Administraci�n de Proyectos de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>287</especialidad>
+		<nombre>C.P.A. �lgebra</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>320</especialidad>
+		<nombre>C.P.A. �lgebra Lineal Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>198</especialidad>
+		<nombre>C.P.A. An. y Dis. de Sist. de Informaci�n Orientados a Objet</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>468</especialidad>
+		<nombre>C.P.A. An�.,dis. y present.de com.cient�ficas y tecnol�gicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>467</especialidad>
+		<nombre>C.P.A. An�lisis de im�genes biom�dicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>474</especialidad>
+		<nombre>C.P.A. An�lisis de im�genes satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>457</especialidad>
+		<nombre>C.P.A. An�lisis de riesgo Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>473</especialidad>
+		<nombre>C.P.A. An�lisis de se�ales mediante onditas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>395</especialidad>
+		<nombre>C.P.A. An�lisis de Se�ales y Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>549</especialidad>
+		<nombre>C.P.A. An�lisis de Se�ales y sus Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>359</especialidad>
+		<nombre>C.P.A. An�lisis Funcional y M�todos Variacionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>190</especialidad>
+		<nombre>C.P.A. An�lisis y C�lculo Num�rico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>272</especialidad>
+		<nombre>C.P.A. An�lisis y Diagn�stico de Vibraciones Mec�nicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>387</especialidad>
+		<nombre>C.P.A. Arquitectura de Redes de Telecomunicaciones Avanzadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>187</especialidad>
+		<nombre>C.P.A. Aspec Introd al Dise�o y An�lisis de Experimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>256</especialidad>
+		<nombre>C.P.A. Auditor�a de Gesti�n Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>209</especialidad>
+		<nombre>C.P.A. Auditor�a y Seguridad Inform�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>169</especialidad>
+		<nombre>C.P.A. Automaci�n Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>281</especialidad>
+		<nombre>C.P.A. Avances en Cat�lisis y Procesos Catal�ticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>334</especialidad>
+		<nombre>C.P.A. Bases Te�ricas y Metodol�gicas de la Investigaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>513</especialidad>
+		<nombre>C.P.A. Bombas y Sistemas de Bombeo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>259</especialidad>
+		<nombre>C.P.A. Buses Ind.de Trans.de Datos y su Aplic.en Veh�culos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>319</especialidad>
+		<nombre>C.P.A. C�lculo en paralelo con MPI y PETSC</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>283</especialidad>
+		<nombre>C.P.A. C�lculo Num�rico y T�cnicas de Discretizaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>364</especialidad>
+		<nombre>C.P.A. C�lculo Paralelo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>478</especialidad>
+		<nombre>C.P.A. Calidad de la Energ�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>196</especialidad>
+		<nombre>C.P.A. Calidad y Productividad en el Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>205</especialidad>
+		<nombre>C.P.A. Ca�er�as Industriales(PIPING)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>240</especialidad>
+		<nombre>C.P.A. Cat�lisis Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>238</especialidad>
+		<nombre>C.P.A. Cat�lisis por Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>235</especialidad>
+		<nombre>C.P.A. Cat�lisis por Zeolitas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>173</especialidad>
+		<nombre>C.P.A. Ciencia e Ingenier�a de Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>237</especialidad>
+		<nombre>C.P.A. Ciencia y Tecnolog�a del Craqueo Catal�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>162</especialidad>
+		<nombre>C.P.A. Cin�tica Qu�m.Avanzada Aplicada a Procesos Cat.Het</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>315</especialidad>
+		<nombre>C.P.A. Circuitos Anal�gicos y Digitales Configurables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>262</especialidad>
+		<nombre>C.P.A. Comprensi�n, Pensamiento y Actividad en Matem�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>172</especialidad>
+		<nombre>C.P.A. Comunicaciones Digitales en Banda Ancha</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>368</especialidad>
+		<nombre>C.P.A. Comunicaciones Inal�mbricas y Redes M�viles</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>373</especialidad>
+		<nombre>C.P.A. Concesiones Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>271</especialidad>
+		<nombre>C.P.A. Const.,Evaluac. y Rehabilitaci�n de Pav.de Hormig�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>157</especialidad>
+		<nombre>C.P.A. Control de Calidad de Hormigones en Obra</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>288</especialidad>
+		<nombre>C.P.A. Control de Calidad de Obras Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>286</especialidad>
+		<nombre>C.P.A. Control Lineal Avanzado y no Lineal</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>277</especialidad>
+		<nombre>C.P.A. Control L�neal Basado en Variable de Estado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>403</especialidad>
+		<nombre>C.P.A. Corrosi�n Met�lica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>239</especialidad>
+		<nombre>C.P.A. Cromatograf�a en Fase Gaseosa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>159</especialidad>
+		<nombre>C.P.A. Cuerpo Acad�mico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>203</especialidad>
+		<nombre>C.P.A. De las Cavernas a los Fractales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>269</especialidad>
+		<nombre>C.P.A. Derecho Inform�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>386</especialidad>
+		<nombre>C.P.A. Diagrama de Equilibrio Ternario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>367</especialidad>
+		<nombre>C.P.A. Did�ctica General en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>540</especialidad>
+		<nombre>C.P.A. Din�mica y Control de Motores El�ctricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>482</especialidad>
+		<nombre>C.P.A. Direcci�n y Administraci�n de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>541</especialidad>
+		<nombre>C.P.A. Dis. de Sist. Digitales desc. en VHDL e imp. en FPGAs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>388</especialidad>
+		<nombre>C.P.A. Dise�o de Circuitos Integrados Anal�gicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>374</especialidad>
+		<nombre>C.P.A. Dise�o Geom�trico Vial mediante Herram.inform�ticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>469</especialidad>
+		<nombre>C.P.A. Dise�o y organizaci�n del trabajo de tersis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>314</especialidad>
+		<nombre>C.P.A. Dise�os de Sist. de Trat.de Desag�es asistido por Com</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>267</especialidad>
+		<nombre>C.P.A. Dise�os Experimentales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>158</especialidad>
+		<nombre>C.P.A. Durabilidad de  Estrcturas  de Hormig�n Armado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>331</especialidad>
+		<nombre>C.P.A. Elementos de Criptograf�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>458</especialidad>
+		<nombre>C.P.A. Emisiones gaseosas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>168</especialidad>
+		<nombre>C.P.A. en Administraci�n Empresarial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>152</especialidad>
+		<nombre>C.P.A. en Direcci�n de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>153</especialidad>
+		<nombre>C.P.A. en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>462</especialidad>
+		<nombre>C.P.A. Energ�a Solar: Fund.Aplic.y su rel.con el cam.climati</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>192</especialidad>
+		<nombre>C.P.A. Epistemolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>289</especialidad>
+		<nombre>C.P.A. Ergonom�a aplicada a las actividades proyectuales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>536</especialidad>
+		<nombre>C.P.A. Ergonom�a Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>241</especialidad>
+		<nombre>C.P.A. Est.de la Inter.de los F�n.de Transp.y Reactores Cat.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>222</especialidad>
+		<nombre>C.P.A. Estab.del Equilibrio: Pandeo en Barras y P�rticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>249</especialidad>
+		<nombre>C.P.A. Estructura Inter.y Dosif. de Horm.de Cem.Portland</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>443</especialidad>
+		<nombre>C.P.A. Estructura y Comportamiento Mec�nico de los Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>509</especialidad>
+		<nombre>C.P.A. Estudio y Simulaci�n de Turbulencias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>155</especialidad>
+		<nombre>C.P.A. Evaluaci�n de Estructuras de Hormig�n en Servicio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>508</especialidad>
+		<nombre>C.P.A. Fen�menos del Transporte Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>452</especialidad>
+		<nombre>C.P.A. F�sica de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>174</especialidad>
+		<nombre>C.P.A. F�sica del Estado S�lido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>447</especialidad>
+		<nombre>C.P.A. F�sica Metal�rgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>163</especialidad>
+		<nombre>C.P.A. F�sico Qu�mica de Nuevos Mat. Nanoestructurados</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>176</especialidad>
+		<nombre>C.P.A. Fisicoqu�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>294</especialidad>
+		<nombre>C.P.A. Formaci�n de Agentes en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>225</especialidad>
+		<nombre>C.P.A. Formulaci�n y Evaluaci�n de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>552</especialidad>
+		<nombre>C.P.A. Fundamentos de Big Data</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>263</especialidad>
+		<nombre>C.P.A. Generaci�n de Empresas Innovadoras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>465</especialidad>
+		<nombre>C.P.A. Geotecnia aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>347</especialidad>
+		<nombre>C.P.A. Gest.e Integr.de Proce.de Neg.en Emp.y en Entor.Busin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>231</especialidad>
+		<nombre>C.P.A. Gesti�n Ambiental de Residuos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>182</especialidad>
+		<nombre>C.P.A. Gesti�n de Ingenier�a Cl�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>188</especialidad>
+		<nombre>C.P.A. Gesti�n de la Comercializaci�n y la Producci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>261</especialidad>
+		<nombre>C.P.A. Gesti�n de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>394</especialidad>
+		<nombre>C.P.A. Gesti�n Integrada de los Recursos H�dricos en Acci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>328</especialidad>
+		<nombre>C.P.A. Gesti�n Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>191</especialidad>
+		<nombre>C.P.A. Hidr�ulica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>470</especialidad>
+		<nombre>C.P.A. Historia de la Ciencia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>353</especialidad>
+		<nombre>C.P.A. Historia de la Ciencia y la Tecnolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>200</especialidad>
+		<nombre>C.P.A. Historia y Desarrollo del Pensamiento Cient�fico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>156</especialidad>
+		<nombre>C.P.A. Hormigones Livianos: Tecnolog�a y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>275</especialidad>
+		<nombre>C.P.A. Identificaci�n y Control Basado en Modelo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>371</especialidad>
+		<nombre>C.P.A. Iluminaci�n Arquitect�nica Exterior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>382</especialidad>
+		<nombre>C.P.A. Incertidumbre en las Mediciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>442</especialidad>
+		<nombre>C.P.A. Inestabilidad del Equilibrio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>184</especialidad>
+		<nombre>C.P.A. Ing de Software T�cnicas Avanzadas de Dise�o de Softw</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>284</especialidad>
+		<nombre>C.P.A. Ingenier�a Aplicada a la Agroindustria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>421</especialidad>
+		<nombre>C.P.A. Ingenier�a de la Conf.II.Dise�o Inherentemente Seguro</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>481</especialidad>
+		<nombre>C.P.A. Ingenier�a de Pavimentos Urbanos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>193</especialidad>
+		<nombre>C.P.A. Ingenier�a en Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>160</especialidad>
+		<nombre>C.P.A. Inteligencia Artifical</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>211</especialidad>
+		<nombre>C.P.A. Inteligencia Artificial.Sist. Basados en los Conocimi</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>293</especialidad>
+		<nombre>C.P.A. Interoperabilidad de la Inf..Aspectos Sint�ct.y Sem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>232</especialidad>
+		<nombre>C.P.A. Introducci�n a la Cat�lisis Heterog�nea</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>440</especialidad>
+		<nombre>C.P.A. Introducci�n a la Mec�nica del Continuo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>463</especialidad>
+		<nombre>C.P.A. Introducci�n a las nanotecnolog�as</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>179</especialidad>
+		<nombre>C.P.A. Introducci�n a los Sistemas Lineales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>180</especialidad>
+		<nombre>C.P.A. Introducci�n a los Sistemas No Lineales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>311</especialidad>
+		<nombre>C.P.A. Introducci�n al Dise�o de Elementos Mec�nicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>280</especialidad>
+		<nombre>C.P.A. La Comunicaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>332</especialidad>
+		<nombre>C.P.A. La Educaci�n en Ambientes Enriquecidos con TICs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>537</especialidad>
+		<nombre>C.P.A. La Formaci�n del Ingeniero en la Era Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>252</especialidad>
+		<nombre>C.P.A. La Geometr�a y el Desarrollo del Pens. Matem�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>338</especialidad>
+		<nombre>C.P.A. La Web Sem�ntica: tecnolog�as y aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>408</especialidad>
+		<nombre>C.P.A. Las Organizaciones: Sentido y Significado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>195</especialidad>
+		<nombre>C.P.A. Lenguajes de Programaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>486</especialidad>
+		<nombre>C.P.A. L�gica Matem�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>339</especialidad>
+		<nombre>C.P.A. L�gica y Fundamentos de la Matem�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>379</especialidad>
+		<nombre>C.P.A. Log�stica del Transporte Portuario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>438</especialidad>
+		<nombre>C.P.A. Matem�tica Avanzada I</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>439</especialidad>
+		<nombre>C.P.A. Matem�tica Avanzada II</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>341</especialidad>
+		<nombre>C.P.A. Matem�ticas Especiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>398</especialidad>
+		<nombre>C.P.A. Materiales Compuestos: Maderas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>363</especialidad>
+		<nombre>C.P.A. Materiales Magn�ticos: Principios y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>409</especialidad>
+		<nombre>C.P.A. Materiales Polim�ricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>415</especialidad>
+		<nombre>C.P.A. Mec�nica de los Modelos Constitutivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>444</especialidad>
+		<nombre>C.P.A. Mec�nica de S�lidos Avanzada:Aplic.a Estruct.Esbeltas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>441</especialidad>
+		<nombre>C.P.A. Mec�nica Racional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>164</especialidad>
+		<nombre>C.P.A. Mecanismos de las Reacciones Qu�micas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>308</especialidad>
+		<nombre>C.P.A. M�t.p/Modelado, sim.,y contr.de sist.rob�ticos compl.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>412</especialidad>
+		<nombre>C.P.A. Metalurg�a F�sica I</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>445</especialidad>
+		<nombre>C.P.A. Metalurgia Mec�nica Aplic. al Conformado de Materiale</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>396</especialidad>
+		<nombre>C.P.A. Metalurgia, F�sica II</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>522</especialidad>
+		<nombre>C.P.A. Metod. y Epistemolog�a de las Ciencia y la Tecnolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>214</especialidad>
+		<nombre>C.P.A. M�todo de los Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>351</especialidad>
+		<nombre>C.P.A. Metodolog�a de la Investigaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>270</especialidad>
+		<nombre>C.P.A. Metodolog�a de la Investigaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>506</especialidad>
+		<nombre>C.P.A. Metodolog�a de la Investigaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>233</especialidad>
+		<nombre>C.P.A. M�todos Instrumentales de Caracterizaci�n de S�lidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>236</especialidad>
+		<nombre>C.P.A. M�todos Modernos de Caracterizaci�n de S�lidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>471</especialidad>
+		<nombre>C.P.A. M�todos num�ricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>354</especialidad>
+		<nombre>C.P.A. M�todos Num�ricos: modelos y simulaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>392</especialidad>
+		<nombre>C.P.A. M�todos para Valorar los Impactos Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>431</especialidad>
+		<nombre>C.P.A. Mod.y Sim.de Sistemas Din�micos a par�metros concentr</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>475</especialidad>
+		<nombre>C.P.A. Model.de la rad.solar y sus aplic.en el sensado remot</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>330</especialidad>
+		<nombre>C.P.A. Modelaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>327</especialidad>
+		<nombre>C.P.A. Modelado Conceptual Basado en Ontolog�as</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>417</especialidad>
+		<nombre>C.P.A. Modelado Formal de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>345</especialidad>
+		<nombre>C.P.A. Modelado y control avanzado de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<nombre>C.P.A. Modelado, simulaci�n  y s�ntesis de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>389</especialidad>
+		<nombre>C.P.A. Modelizaci�n de Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>472</especialidad>
+		<nombre>C.P.A. Modelizaci�n por Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>245</especialidad>
+		<nombre>C.P.A. Modelos Interdisciplinarios de Invenci�n Cient.y Tec.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>487</especialidad>
+		<nombre>C.P.A. Nanosensores</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>404</especialidad>
+		<nombre>C.P.A. Nanotecnolog�a y Nanomateriales Polim�ricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>230</especialidad>
+		<nombre>C.P.A. Ns.Tecnol. de Base de Datos Modelo Objs.y Rel. y XML</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>258</especialidad>
+		<nombre>C.P.A. Nuevas Mezclas Asf�lticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>466</especialidad>
+		<nombre>C.P.A. Nuevas Tendencias en Hidrolog�a Urbana</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>264</especialidad>
+		<nombre>C.P.A. Nvas.Tec.de Bases de Datos,Mod.Obj.Rel.y XML</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>322</especialidad>
+		<nombre>C.P.A. Ondas El�sticas, Emisi�n Ac�stica y sus Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>321</especialidad>
+		<nombre>C.P.A. Optoelectr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>208</especialidad>
+		<nombre>C.P.A. Patolog�a y Terap�utica de Viviendas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>268</especialidad>
+		<nombre>C.P.A. Pericias Inform�ticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>405</especialidad>
+		<nombre>C.P.A. Pinturas y Recubrimientos para Sustratos Diversos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>234</especialidad>
+		<nombre>C.P.A. Preparaci�n y Modificaci�n de Materiales Zeol�ticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>464</especialidad>
+		<nombre>C.P.A. Prevenci�n y protecci�n de la corrosi�n met�lica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>485</especialidad>
+		<nombre>C.P.A. Problem�ticas de la Ense�anza en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>171</especialidad>
+		<nombre>C.P.A. Proc. Indust. y su Control,Aplicaci�n,Dise�o y Sinton</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>340</especialidad>
+		<nombre>C.P.A. Procesamiento de Im�genes Satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>518</especialidad>
+		<nombre>C.P.A. Procesamiento de Se�ales con Hardware Reconfigurable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>551</especialidad>
+		<nombre>C.P.A. Procesamiento de Se�ales e Im�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>274</especialidad>
+		<nombre>C.P.A. Procesamiento Digital de Im�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>178</especialidad>
+		<nombre>C.P.A. Procesamiento Digital de Se�ales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>414</especialidad>
+		<nombre>C.P.A. Procesamiento Sup.de Materiales Asistido por Plasma</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>456</especialidad>
+		<nombre>C.P.A. Procesos Fundamental.Fisicoqu�micos y Microbiol�gicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>244</especialidad>
+		<nombre>C.P.A. Procesos Ind. y su Control, Aplic.,Dis.y Sint.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>362</especialidad>
+		<nombre>C.P.A. Propiedades F�sicas de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>546</especialidad>
+		<nombre>C.P.A. Propiedades Mec�nicas de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>253</especialidad>
+		<nombre>C.P.A. Propiedades y Aplicaciones de �xidos de Perovskita</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>406</especialidad>
+		<nombre>C.P.A. Protecci�n de Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>514</especialidad>
+		<nombre>C.P.A. Proyecto de Ca�er�as Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>254</especialidad>
+		<nombre>C.P.A. Qu�mica del Estado S�lido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>242</especialidad>
+		<nombre>C.P.A. Qu�mica Fina y Cat�lisis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>290</especialidad>
+		<nombre>C.P.A. Qu�mica F�sica Avanzada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>285</especialidad>
+		<nombre>C.P.A. Qu�mica Te�rica y Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>223</especialidad>
+		<nombre>C.P.A. Radiaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>419</especialidad>
+		<nombre>C.P.A. Radiaciones Ionizantes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>255</especialidad>
+		<nombre>C.P.A. Rec.Av.en la Res.de Est.a Partir de Dif.de Polvos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>206</especialidad>
+		<nombre>C.P.A. Recipientes a Presi�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>251</especialidad>
+		<nombre>C.P.A. Redes de Com.,la Internet Ac. y los Prot.de Nvas.Gen.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>177</especialidad>
+		<nombre>C.P.A. Redes Neuronales Aplicadas a la Rob�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>183</especialidad>
+		<nombre>C.P.A. Redes Neuronales y Procesamiento de Im�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>348</especialidad>
+		<nombre>C.P.A. Reingenier�a de Sistemas Orientado a Objetos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>266</especialidad>
+		<nombre>C.P.A. Resoluci�n de Problemas en la escuela</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>356</especialidad>
+		<nombre>C.P.A. Riesgo El�ctrico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>484</especialidad>
+		<nombre>C.P.A. Rob�tica de manip.-Un abordaje desde los mod.cinem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>446</especialidad>
+		<nombre>C.P.A. Selecci�n y Dise�o de Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>257</especialidad>
+		<nombre>C.P.A. Sim.de Compo.Elec. con el ATP-Alter.Trans.Program</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>432</especialidad>
+		<nombre>C.P.A. Simulaci�n de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>279</especialidad>
+		<nombre>C.P.A. Sis.Int.de Ges.-Cal.,Med.Am.y Sal.y Seg.Ocup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>516</especialidad>
+		<nombre>C.P.A. Sist. Tol. a Fallas y Ef. de Rad. Ioniz. en Cir. Int.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>161</especialidad>
+		<nombre>C.P.A. Sistemas de Aprendizaje Artificial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>197</especialidad>
+		<nombre>C.P.A. Sistemas de Informaci�n Distribuidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>186</especialidad>
+		<nombre>C.P.A. Sistemas de Informaci�n Geogr�ficos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>422</especialidad>
+		<nombre>C.P.A. Sistemas de Razonamiento y Aprendizaje Automatizado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>194</especialidad>
+		<nombre>C.P.A. Sistemas de Tiempo Real (STR)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>352</especialidad>
+		<nombre>C.P.A. Sistemas Lineales y no Lineales: Caos y Fractales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>295</especialidad>
+		<nombre>C.P.A. Sistemas Multifuentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>483</especialidad>
+		<nombre>C.P.A. Sistemas Multimediales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>207</especialidad>
+		<nombre>C.P.A. Sociedad de la Informaci�n y Econom�a Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>580</especialidad>
+		<nombre>C.P.A. Soldadura: fabric. bajo c�digos, normas y reglament.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>479</especialidad>
+		<nombre>C.P.A. T�c.de prog.mix.-ent.y disy.p.el plan.y sec.�p.de pro</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>553</especialidad>
+		<nombre>C.P.A. T�cnicas �giles de Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>454</especialidad>
+		<nombre>C.P.A. T�cnicas aplicables al desarrollo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>550</especialidad>
+		<nombre>C.P.A. T�cnicas Avanzadas de Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>276</especialidad>
+		<nombre>C.P.A. T�cnicas Avanzadas de Control Autom�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>335</especialidad>
+		<nombre>C.P.A. T�cnicas de Comunicaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>307</especialidad>
+		<nombre>C.P.A. T�cnicas Mod.de Dis.Electr�nico con Leng.Desc.de Hard</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>357</especialidad>
+		<nombre>C.P.A. Tecnolog�a de la Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>397</especialidad>
+		<nombre>C.P.A. Tecnolog�a de los Materiales Cer�micos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>407</especialidad>
+		<nombre>C.P.A. Tecnolog�a de Pinturas y Recubrimientos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>189</especialidad>
+		<nombre>C.P.A. Tecnolog�a de Sistemas Aeroespaciales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>318</especialidad>
+		<nombre>C.P.A. Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>323</especialidad>
+		<nombre>C.P.A. Teor�a General de las Vibraciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>342</especialidad>
+		<nombre>C.P.A. Teor�a General del M�todo de los Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>175</especialidad>
+		<nombre>C.P.A. Termodin�mica de Sistemas Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>369</especialidad>
+		<nombre>C.P.A. Test de Circuitos y Sistemas Electr�nicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>507</especialidad>
+		<nombre>C.P.A. T�picos de Bioinform�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>199</especialidad>
+		<nombre>C.P.A. T�picos de Econom�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>185</especialidad>
+		<nombre>C.P.A. T�picos de Inteligencia Artificial Distribuida</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>309</especialidad>
+		<nombre>C.P.A. Tracci�n El�ctrica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>336</especialidad>
+		<nombre>C.P.A. Transformada Onditas: Teor�a y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>170</especialidad>
+		<nombre>C.P.A. Transmisi�n Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>535</especialidad>
+		<nombre>C.P.A. Transporte y Distribuci�n de Gas Natural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>312</especialidad>
+		<nombre>C.P.A. Tratamiento Variacional de la Din�mica Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>265</especialidad>
+		<nombre>C.P.A. Turbulencia Marina Aplicable a Biolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>400</especialidad>
+		<nombre>C.P.A. Uniones Mec�nicas en Madera para Uso Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>260</especialidad>
+		<nombre>C.P.A. Utiliz.de Nvos.Prod,Mat.y Res.en las Est.Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>477</especialidad>
+		<nombre>C.P.A. Ventilaci�n y Seguridad contra incendios en t�neles</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>402</especialidad>
+		<nombre>C.P.A.Arci.,Zeo.y mat.Mes.Ord.como Ads.Sel.Prep,Carac y Ap.T</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>459</especialidad>
+		<nombre>C.P.A.Avances en el Dise�o de Experimen.y Optimi.de Procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>433</especialidad>
+		<nombre>C.P.A.Avances re.en pro.de inf.por m�t.�pt(m�s a.del a.de i)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>401</especialidad>
+		<nombre>C.P.A.Biocorrosi�n(Corros.Inducida Microbiol�gicamente,mic)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>181</especialidad>
+		<nombre>C.P.A.C�l de Variaciones e Introd a la Optimizaci�n Din�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>418</especialidad>
+		<nombre>C.P.A.Calib.de los C�d.de Dis.Estr.basados en el form.LRFD</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>346</especialidad>
+		<nombre>C.P.A.Calidad de Potencia en Sis.de Distrib.de Energ�a El�c.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>429</especialidad>
+		<nombre>C.P.A.Car.qu�.y f�s.de sup.y na.de ca.,al mo.y com.con pr.es</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>399</especialidad>
+		<nombre>C.P.A.Comport.de Barras Comp.de Mad.Aser.yLam.Enc.p/Uso Estr</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>436</especialidad>
+		<nombre>C.P.A.Con.y usos de la tec.esp.para el est.y cons.del mediam</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>380</especialidad>
+		<nombre>C.P.A.Des.de Nvas Es.p/la Res.de fallas y el mant.en ins.ene</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>377</especialidad>
+		<nombre>C.P.A.Desarrollo,Prop.y Apli.de Mat.Zeol�ticos y Mesoporosos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>337</especialidad>
+		<nombre>C.P.A.Dis. y Man.de Aplic.Web empleando los mod.UWA y UWAT</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>226</especialidad>
+		<nombre>C.P.A.Dise�o, Constr. e Insp.en Inst.Semaf�ricas de �lt.Gen.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>385</especialidad>
+		<nombre>C.P.A.Dosif.y Contr.de Cal.en Mez.Asf.Esp.de �lt.Gen.en Cal.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>461</especialidad>
+		<nombre>C.P.A.Electromag.Aplic.y Antenas.Aplic.en Sec.Aero.y Automo.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>333</especialidad>
+		<nombre>C.P.A.Eval.de Tecnol.con el Enfoq.CTS(Ciencia,Tecnol. y Soc)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>378</especialidad>
+		<nombre>C.P.A.Fisico Qu�mica de Nvos.Mat.Nanoes.,Nanom. y Nanotecnol</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>453</especialidad>
+		<nombre>C.P.A.Fisicoq.de Nuevos Mat.Nanoest.,Nanom.y Nanotecnolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>326</especialidad>
+		<nombre>C.P.A.Fund.de Bioinfor.:Mod.Prob.para el Est.de Prot.y �c.Nu</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>224</especialidad>
+		<nombre>C.P.A.Hormig�n Pre y Postesado:Asp.T,Pr�.y Eco.s/CIRSOC2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>420</especialidad>
+		<nombre>C.P.A.Ing.de la Con.I.Fu.y Ap.en Ma.,Pla.,y la Ges.Op.de Pr.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>451</especialidad>
+		<nombre>C.P.A.Ing.de las Reac.de Act.Cat.de Enl.C-C y C-H en Par.Liv</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>165</especialidad>
+		<nombre>C.P.A.Ing.de Reac.Activ.Cat.de Enlaces C-C y C-H en Para.Liv</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>358</especialidad>
+		<nombre>C.P.A.Ingenier�a de Confiabil., Operativi.y Riesgo(ICOR2008)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>291</especialidad>
+		<nombre>C.P.A.Ingenier�a de Mat:Tec.Avan.de Pro.y Mod.Sup.de Mat.Met</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>329</especialidad>
+		<nombre>C.P.A.Inv.Atm.Aplic.a la Mod.del Tiem.y del Cambio Clim.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>393</especialidad>
+		<nombre>C.P.A.La So.y los Re.Na.Su.yAg.en Co.de Se.en el sur de BsAs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>455</especialidad>
+		<nombre>C.P.A.Materiales Zeol�ticos:S�ntesis, Caracteriz.y Aplicacio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>273</especialidad>
+		<nombre>C.P.A.Mec�nica del Cont�nuo e Introd.a los m�todos num�ricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>480</especialidad>
+		<nombre>C.P.A.Mercados El�c.y Act.Reg.Org.,Op.y Pol Reg.p.la sustent</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>316</especialidad>
+		<nombre>C.P.A.Modelado y S�ntesis con Leng.de Descrip.de Hardware</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>365</especialidad>
+		<nombre>C.P.A.Modeliz.de la Rad.Solar y sus Apli.en el Sensado Remot</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>375</especialidad>
+		<nombre>C.P.A.Nanoc.y Nanote.Qu�.de Sup.y t�c.mic.usa.p.la car.de na</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>361</especialidad>
+		<nombre>C.P.A.Patolog�a,Vuln.,y Terap.de Ed.Esc.en Zonas de Elev.Sis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>372</especialidad>
+		<nombre>C.P.A.Planif.Terr.del Transp,Gest.Vial y Sist.de Participa.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>360</especialidad>
+		<nombre>C.P.A.Proces.Avanzado de Se�ales:M�t.Adapt.y Redes Neuronal.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>376</especialidad>
+		<nombre>C.P.A.Redes Neuronales Artificiales y L�gica Difusa en Ingen</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>423</especialidad>
+		<nombre>C.P.A.Res.y Evol.Microestructural en la Def.en Cal.de Aceros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>227</especialidad>
+		<nombre>C.P.A.Selecci�n de Materiales para Usos Mec�nicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>370</especialidad>
+		<nombre>C.P.A.Sim.Comput.de Flujos Turbulentos en la Capa L�m.Atm�sf</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<nombre>C.P.A.S�ntesis y dise�o de procesos utilizando progra.matem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>292</especialidad>
+		<nombre>C.P.A.Sistemas Inteligentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>313</especialidad>
+		<nombre>C.P.A.Tecnolog�a ambiental,des.sustentable y calidad de vida</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>416</especialidad>
+		<nombre>C.P.A.T�picos Avanzados en Procesamiento Digital de Im�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>11</especialidad>
+		<nombre>Complemento de Ing. en Construcciones a Ing.Civil * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>13</especialidad>
+		<nombre>Complemento de Ing. en V�as de Comunic.a Ing.Civil * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>12</especialidad>
+		<nombre>Complemento de Ingenier�a Hidr�ulica a Ing.Civil * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>151</especialidad>
+		<nombre>Curso de Post-Grado en Gesti�n Empresarial para Ingenieros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>778</especialidad>
+		<nombre>Diplomatura en Matem�tica Educativa para Nivel Secundario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>583</especialidad>
+		<nombre>Doctorado en Inform�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>317</especialidad>
+		<nombre>Doctorado en Ing., menci�n Proces. de Se�ales e Im�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>300</especialidad>
+		<nombre>Doctorado en Ingenier�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>303</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Ac�stica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>476</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Civil-Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>572</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Computaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>301</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Electr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>304</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Ensayos Estructurales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>427</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>325</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Ingenieria Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>411</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Mec�nica Te�rica y Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>305</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Qu�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>306</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Sist. de Informaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>511</especialidad>
+		<nombre>Doctorado en Ingenier�a, menci�n Tecnolog�as Qu�micas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>999</especialidad>
+		<nombre>Educaci�n a Distancia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>547</especialidad>
+		<nombre>Esp. en Direcci�n y Gesti�n de Empresas Agro-Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>539</especialidad>
+		<nombre>Esp. en Energ�a El�ctrica, menci�n Transmisi�n y Distribuc.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>601</especialidad>
+		<nombre>Esp. en Gest. Log�st. Integral de la Caden. de Sumin.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>567</especialidad>
+		<nombre>Esp. en Gesti�n de la Innov. de Emp. Text. y de la Moda</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>542</especialidad>
+		<nombre>Esp. en Mant. de Inst. de Trans. y Dist. de la Energ�a El�c.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<nombre>Espec. en Patolog�a y Control de Cal. de Est. Sismorresist.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<nombre>Especial. en Ing.Estruc.Orien.a Rec.Cont.de Pres.,Ca�.y Equ.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>582</especialidad>
+		<nombre>Especializaci�n en Autom�viles de Competici�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>605</especialidad>
+		<nombre>Especializaci�n en Bioeconom�a Aplicada a la Agroindustria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>598</especialidad>
+		<nombre>Especializaci�n en Centrales Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>430</especialidad>
+		<nombre>Especializaci�n en Cien.de la Comp.con Orient.Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>488</especialidad>
+		<nombre>Especializaci�n en Computaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>146</especialidad>
+		<nombre>Especializaci�n en Control e Insp. de Construc. Soldadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>437</especialidad>
+		<nombre>Especializaci�n en Desarrollo Sustentable del H�bitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<nombre>Especializaci�n en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>538</especialidad>
+		<nombre>Especializaci�n en Energ�a El�ctrica, menci�n Generaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>501</especialidad>
+		<nombre>Especializaci�n en Ensayos Estructurales y no Destructivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<nombre>Especializaci�n en Ergonom�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>428</especialidad>
+		<nombre>Especializaci�n en Ges.de la Innovaci�n y la Vin.Tecnol�gica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>383</especialidad>
+		<nombre>Especializaci�n en Gesti�n de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<nombre>Especializaci�n en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>504</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Bioenerg�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>149</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Cl�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>113</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<nombre>Especializaci�n en Ingenier�a en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<nombre>Especializaci�n en Ingenier�a en Control Autom�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<nombre>Especializaci�n en Ingenier�a en Mantenimiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<nombre>Especializaci�n en Ingenier�a en Sistemas de Informaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<nombre>Especializaci�n en Ingenier�a en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>128</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>566</especialidad>
+		<nombre>Especializaci�n en Ingenier�a Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>494</especialidad>
+		<nombre>Especializaci�n en Management Tecnol�gico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>581</especialidad>
+		<nombre>Especializaci�n en Miner�a de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>502</especialidad>
+		<nombre>Especializaci�n en Patolog�as y Terap�ut. de la Construcci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>150</especialidad>
+		<nombre>Especializaci�n en Preparaci�n y Evaluaci�n de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>390</especialidad>
+		<nombre>Especializaci�n en Procesos Biotecnol�gicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<nombre>Especializaci�n en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>324</especialidad>
+		<nombre>Especializaci�n en Sim.y Mec.Comp.Aplic.al Dis.en Ingenier�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>597</especialidad>
+		<nombre>Especializaci�n en Sistemas Electr�nicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<nombre>Especializaci�n en Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<nombre>Especializaci�n en Tecnolog�a de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>610</especialidad>
+		<nombre>Especializaci�n en Tecnolog�as de Informaci�n Geogr�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<nombre>Especializaci�n en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<nombre>Ingenier�a Aeron�utica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>596</especialidad>
+		<nombre>Ingenier�a Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<nombre>Ingenier�a Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<nombre>Ingenier�a El�ctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<nombre>Ingenier�a Electromec�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<nombre>Ingenier�a Electr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>45</especialidad>
+		<nombre>Ingenier�a en Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>30</especialidad>
+		<nombre>Ingenier�a en Automotores</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>14</especialidad>
+		<nombre>Ingenier�a en Comunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<nombre>Ingenier�a en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>39</especialidad>
+		<nombre>Ingenier�a en Construcciones Aeron�uticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>228</especialidad>
+		<nombre>Ingenier�a en Construcciones de Obras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>229</especialidad>
+		<nombre>Ingenier�a en Construcciones Electromec�nicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>40</especialidad>
+		<nombre>Ingenier�a en Construcciones Mec�nicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>586</especialidad>
+		<nombre>Ingenier�a en Energ�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<nombre>Ingenier�a en Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>29</especialidad>
+		<nombre>Ingenier�a en Seguridad e Higiene en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<nombre>Ingenier�a en Sistemas de Informaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>612</especialidad>
+		<nombre>Ingenier�a en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>15</especialidad>
+		<nombre>Ingenier�a en Telecomunicaciones - NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>571</especialidad>
+		<nombre>Ingenier�a en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>16</especialidad>
+		<nombre>Ingenier�a en V�as de Comunicaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<nombre>Ingenier�a Ferroviaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>20</especialidad>
+		<nombre>Ingenier�a Hidr�ulica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<nombre>Ingenier�a Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>28</especialidad>
+		<nombre>Ingenier�a Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<nombre>Ingenier�a Mec�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<nombre>Ingenier�a Mecatr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<nombre>Ingenier�a Metal�rgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<nombre>Ingenier�a Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<nombre>Ingenier�a Pesquera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<nombre>Ingenier�a Qu�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>23</especialidad>
+		<nombre>Ingenier�a Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>38</especialidad>
+		<nombre>Ingenier�a Sanitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<nombre>Ingenier�a Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>22</especialidad>
+		<nombre>Ingenier�a Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<nombre>Ingresantes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>980</especialidad>
+		<nombre>Laboratorios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>92</especialidad>
+		<nombre>Licenciatura  en Gesti�n de la Producci�n Gr�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>533</especialidad>
+		<nombre>Licenciatura en Adm. y Gesti�n en Inst. de Educaci�n Sup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<nombre>Licenciatura en Administraci�n de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>591</especialidad>
+		<nombre>Licenciatura en Administraci�n de Empresas (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<nombre>Licenciatura en Administraci�n Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>90</especialidad>
+		<nombre>Licenciatura en Auditor�a y Gesti�n Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>558</especialidad>
+		<nombre>Licenciatura en Automatizaci�n y Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<nombre>Licenciatura en Ciencias Aplicadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<nombre>Licenciatura en Comercializaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>560</especialidad>
+		<nombre>Licenciatura en Comercio Electr�nico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>89</especialidad>
+		<nombre>Licenciatura en Desarrollo de Econom�as Regionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>202</especialidad>
+		<nombre>Licenciatura en Educaci�n F�sica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>82</especialidad>
+		<nombre>Licenciatura en Electromec�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>80</especialidad>
+		<nombre>Licenciatura en Electr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>99</especialidad>
+		<nombre>Licenciatura en Enolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>381</especialidad>
+		<nombre>Licenciatura en Ense�anza de Ciencias del Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>426</especialidad>
+		<nombre>Licenciatura en Ense�anza de Ciencias del Ambiente(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>95</especialidad>
+		<nombre>Licenciatura en Ense�anza de la F�sica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>96</especialidad>
+		<nombre>Licenciatura en Ense�anza de la Matem�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>503</especialidad>
+		<nombre>Licenciatura en Gesti�n Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>608</especialidad>
+		<nombre>Licenciatura en Gestion Ambiental (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>499</especialidad>
+		<nombre>Licenciatura en Gesti�n de Emp. Tur�sticas y Hoteleras (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>129</especialidad>
+		<nombre>Licenciatura en Gesti�n de Empresas Tur�sticas-Ciclo Lic.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>88</especialidad>
+		<nombre>Licenciatura en Gesti�n de Negocios Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>519</especialidad>
+		<nombre>Licenciatura en Gesti�n Sustentable de las Agrocadenas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>600</especialidad>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>87</especialidad>
+		<nombre>Licenciatura en Inform�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>97</especialidad>
+		<nombre>Licenciatura en la Ense�anza de la Qu�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<nombre>Licenciatura en Lengua Inglesa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>425</especialidad>
+		<nombre>Licenciatura en Lengua Inglesa - Ord.1146</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>355</especialidad>
+		<nombre>Licenciatura en Log�stica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>602</especialidad>
+		<nombre>Licenciatura en Log�stica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<nombre>Licenciatura en Organizaci�n Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>526</especialidad>
+		<nombre>Licenciatura en Producci�n de Bioim�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>83</especialidad>
+		<nombre>Licenciatura en Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>86</especialidad>
+		<nombre>Licenciatura en Sistemas de Informaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>460</especialidad>
+		<nombre>Licenciatura en Tecnolog�a Aplicada a la Seguridad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<nombre>Licenciatura en Tecnolog�a Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<nombre>Licenciatura en Tecnolog�a Educativa (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<nombre>Licenciatura en Tecnolog�a M�dica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>559</especialidad>
+		<nombre>Licenciatura en Tecnolog�as Inclusivas en Educaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>592</especialidad>
+		<nombre>Licenciatura en Tecnolog�as Inclusivas en Educaci�n (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>570</especialidad>
+		<nombre>Maest. en Info. Ind., menci�n Sist. F�sico-cibern�ticos Ind.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<nombre>Maestr�a en Administraci�n de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>569</especialidad>
+		<nombre>Maestr�a en Ciencia Regional e Impacto Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<nombre>Maestr�a en Desarrollo Sustentable del H�bitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<nombre>Maestr�a en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<nombre>Maestr�a en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<nombre>Maestr�a en Energ�as Renovables Menci�n Biomasa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<nombre>Maestr�a en Energ�as Renovables Menci�n E�lica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<nombre>Maestr�a en Energ�as Renovables Menci�n Solar</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>213</especialidad>
+		<nombre>Maestr�a en Gesti�n de la Educaci�n Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>568</especialidad>
+		<nombre>Maestr�a en Gesti�n de Residuos S�lidos Urbanos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>384</especialidad>
+		<nombre>Maestr�a en Gesti�n de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<nombre>Maestr�a en Ingenier�a Ac�stica y de Sonido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<nombre>Maestr�a en Ingenier�a Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>520</especialidad>
+		<nombre>Maestr�a en Ingenier�a Bioenerg�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<nombre>Maestr�a en Ingenier�a en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<nombre>Maestr�a en Ingenier�a en Control Autom�tico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<nombre>Maestr�a en Ingenier�a en Sistemas de Informaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<nombre>Maestr�a en Ingenier�a Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>424</especialidad>
+		<nombre>Maestr�a en Ingenier�a Estructural Mec�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<nombre>Maestr�a en Ingenier�a Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>528</especialidad>
+		<nombre>Maestr�a en Ingenier�a Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>521</especialidad>
+		<nombre>Maestr�a en Instrumentos Satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>534</especialidad>
+		<nombre>Maestr�a en Inteligencia de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<nombre>Maestr�a en M�todos Num�ricos y Mec�nica Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>548</especialidad>
+		<nombre>Maestr�a en Miner�a de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>497</especialidad>
+		<nombre>Maestr�a en Planificaci�n y Gesti�n de la Ingenier�a Urbana</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>588</especialidad>
+		<nombre>Maestr�a en Planificaci�n y Operaciones Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<nombre>Maestr�a en Procesos Biotecnol�gicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>112</especialidad>
+		<nombre>Maestr�a en Radioqu�mica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>111</especialidad>
+		<nombre>Maestr�a en Reactores Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>587</especialidad>
+		<nombre>Maestr�a en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>109</especialidad>
+		<nombre>Maestr�a en Siderurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>127</especialidad>
+		<nombre>Maestr�a en Sim. y Mec.Comp.Aplicada al Dise�o en Ingenier�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<nombre>Maestr�a en Tecnolog�a Aeroespacial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<nombre>Maestr�a en Tecnolog�a de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>530</especialidad>
+		<nombre>Maestr�a en Tecnolog�a Satelital Menci�n Sist. de Avi�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>529</especialidad>
+		<nombre>Maestr�a en Tecnolog�a Satelital Menci�n Sistemas Mec�nicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>167</especialidad>
+		<nombre>Maestr�a en Tecnolog�as Energ�ticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<nombre>Maestr�a en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>114</especialidad>
+		<nombre>Maestr�a en Transporte y Log�stica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<nombre>Mtr�a en Ciencias de la Computaci�n con Orie. Base de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<nombre>Profesorado de Biolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>77</especialidad>
+		<nombre>Profesorado de Historia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<nombre>Profesorado de Ingl�s</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<nombre>Profesorado de Ingl�s e Ingl�s T�cnico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>779</especialidad>
+		<nombre>Profesorado de Ingl�s para la Educaci�n Inicial y Primaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<nombre>Profesorado de Lengua</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<nombre>Profesorado de Matem�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<nombre>Profesorado de Psicolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>76</especialidad>
+		<nombre>Profesorado de Tecnolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<nombre>Profesorado en Disciplinas Industriales - CICLO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>780</especialidad>
+		<nombre>Profesorado en Docencia Superior - CICLO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>70</especialidad>
+		<nombre>Profesorado en Matem�tica y Matem�tica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>220</especialidad>
+		<nombre>Profesorado Universitario en Tecnolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>250</especialidad>
+		<nombre>Sem.Actual.PG Las relaciones entre la formaci�n y el empleo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>310</especialidad>
+		<nombre>Seminario de Posgrado de Actualizaci�n Emisi�n Ac�stica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>247</especialidad>
+		<nombre>Seminario Dise�o y Organizaci�n del Trabajo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>296</especialidad>
+		<nombre>Seminario Investigaci�n de Mercado y Des.de Prod.y Serv.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>246</especialidad>
+		<nombre>Seminario Metodolog�a de la Investigaci�n Cient�fica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>278</especialidad>
+		<nombre>Seminario Nueva Normativa en Higiene y Seg. en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>243</especialidad>
+		<nombre>Seminario Taller T�cnicas Aplicables al Desarrollo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>248</especialidad>
+		<nombre>Seminario Tecnolog�a y Desarrollo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>594</especialidad>
+		<nombre>Tec. Univ. en Comercio Electr�nico y Marketing Digital (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>607</especialidad>
+		<nombre>Tec. Univ. en Desarrollo y Producci�n de Videojuegos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>595</especialidad>
+		<nombre>Tec. Univ. en Gesti�n de Gobierno Electr�nico (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>524</especialidad>
+		<nombre>Tec. Univ. en Medic. Fiscales y Oper. de Hidrocarburos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>527</especialidad>
+		<nombre>Tec. Univ. en Perforaci�n y Terminaci�n de Pozos Petroleros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>532</especialidad>
+		<nombre>Tec. Univ. en Procedimientos y Tecnolog�as Ambientales (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>603</especialidad>
+		<nombre>Tec. Univ. en Saneamiento y Producci�n de Agua Potable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>496</especialidad>
+		<nombre>Tec. Univ. en Yac. Hidrocarbur�feros No Convencionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>525</especialidad>
+		<nombre>Tec. Univ. en Yacimientos Hidrocarbur�feros No Conv. (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>78</especialidad>
+		<nombre>Tecnicatura en Comunicaci�n Social</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>4</especialidad>
+		<nombre>Tecnicatura en Programaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>783</especialidad>
+		<nombre>Tecnicatura en Radiolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>789</especialidad>
+		<nombre>Tecnicatura para el Nivel Secundario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>62</especialidad>
+		<nombre>Tecnicatura Sup. en Mec�nica, Automotores y M�qs.T�rmicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<nombre>Tecnicatura Superior en Automatizaci�n y Rob�tica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>61</especialidad>
+		<nombre>Tecnicatura Superior en Control El�ctrico y Accionamientos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>67</especialidad>
+		<nombre>Tecnicatura Superior en Dise�o Tecnol�gico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>64</especialidad>
+		<nombre>Tecnicatura Superior en Electr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>66</especialidad>
+		<nombre>Tecnicatura Superior en F�sica y F�sica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<nombre>Tecnicatura Superior en Inform�tica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>786</especialidad>
+		<nombre>Tecnicatura Superior en Interiorismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>781</especialidad>
+		<nombre>Tecnicatura Superior en Obras Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>782</especialidad>
+		<nombre>Tecnicatura Superior en Pr�cticas Cardiol�gicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>65</especialidad>
+		<nombre>Tecnicatura Superior en Qu�mica y Qu�mica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>48</especialidad>
+		<nombre>Tecnicatura Univ. en Adm.y Gesti�n en Inst.de Educaci�n Sup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>123</especialidad>
+		<nombre>Tecnicatura Univ. en Bromatolog�a y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>47</especialidad>
+		<nombre>Tecnicatura Univ. en Energ�a Renovable y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>137</especialidad>
+		<nombre>Tecnicatura Univ. en Equipos Viales, Mineros y Agr�colas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>523</especialidad>
+		<nombre>Tecnicatura Univ. en Fabricaci�n de Maquinaria Agr�cola</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>140</especialidad>
+		<nombre>Tecnicatura Univ. en Gesti�n de la Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>492</especialidad>
+		<nombre>Tecnicatura Univ. en Gesti�n de Tecnolog�as Agropecuarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>606</especialidad>
+		<nombre>Tecnicatura Univ. en Gesti�n y Admin. de Org. Sindicales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>119</especialidad>
+		<nombre>Tecnicatura Univ. en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>216</especialidad>
+		<nombre>Tecnicatura Univ. en Higiene y Seguridad en el Trabajo (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>139</especialidad>
+		<nombre>Tecnicatura Univ. en Med.Fiscales y Op.de Hidrocarburos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>512</especialidad>
+		<nombre>Tecnicatura Univ. en Medio Ambiente Ant�rtico y Subant�rtico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>297</especialidad>
+		<nombre>Tecnicatura Univ. en Medio Ambiente Marino Costero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>141</especialidad>
+		<nombre>Tecnicatura Univ. en Operaci�n y Mant. de Redes El�ctricas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>493</especialidad>
+		<nombre>Tecnicatura Univ. en Procedimientos y Tecnolog. Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>59</especialidad>
+		<nombre>Tecnicatura Univ. en Sup.de Pro. Ind.con Orien.en Petroqu�m.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<nombre>Tecnicatura Univ. en Tecnolog�as de la Informaci�n (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>124</especialidad>
+		<nombre>Tecnicatura Univ.en Acuicultura y Procesamiento Pesquero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>609</especialidad>
+		<nombre>Tecnicatura Universitaria en Acompa�amiento Terap�utico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>125</especialidad>
+		<nombre>Tecnicatura Universitaria en Administraci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>498</especialidad>
+		<nombre>Tecnicatura Universitaria en Administraci�n (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>298</especialidad>
+		<nombre>Tecnicatura Universitaria en Administraci�n Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>35</especialidad>
+		<nombre>Tecnicatura Universitaria en Administraci�n Rural * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>132</especialidad>
+		<nombre>Tecnicatura Universitaria en Celulosa y Papel</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>561</especialidad>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>593</especialidad>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>585</especialidad>
+		<nombre>Tecnicatura Universitaria en Contabilidad y Tributaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>134</especialidad>
+		<nombre>Tecnicatura Universitaria en Desarrollo Local y Regional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>138</especialidad>
+		<nombre>Tecnicatura Universitaria en Dise�o Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>10</especialidad>
+		<nombre>Tecnicatura Universitaria en Electr�nica * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>544</especialidad>
+		<nombre>Tecnicatura Universitaria en Energ�as Sustentables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<nombre>Tecnicatura Universitaria en Enolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>543</especialidad>
+		<nombre>Tecnicatura Universitaria en Gesti�n Aeron�utica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>590</especialidad>
+		<nombre>Tecnicatura Universitaria en Gesti�n Aeron�utica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<nombre>Tecnicatura Universitaria en Gesti�n de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<nombre>Tecnicatura Universitaria en Gesti�n de Empresas Tur�sticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>299</especialidad>
+		<nombre>Tecnicatura Universitaria en Gesti�n de la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>32</especialidad>
+		<nombre>Tecnicatura Universitaria en Industrias Alimentarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>515</especialidad>
+		<nombre>Tecnicatura Universitaria en Log�stica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>604</especialidad>
+		<nombre>Tecnicatura Universitaria en Log�stica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>41</especialidad>
+		<nombre>Tecnicatura Universitaria en Mantenimiento Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>490</especialidad>
+		<nombre>Tecnicatura Universitaria en Material Rodante Ferroviario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>42</especialidad>
+		<nombre>Tecnicatura Universitaria en Mecatr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>491</especialidad>
+		<nombre>Tecnicatura Universitaria en Metalurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>36</especialidad>
+		<nombre>Tecnicatura Universitaria en Metalurgia * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>545</especialidad>
+		<nombre>Tecnicatura Universitaria en Metrolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>531</especialidad>
+		<nombre>Tecnicatura Universitaria en Miner�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>136</especialidad>
+		<nombre>Tecnicatura Universitaria en Moldes, Matrices y Dispositivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<nombre>Tecnicatura Universitaria en Negociaci�n de Bienes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>126</especialidad>
+		<nombre>Tecnicatura Universitaria en Periodismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>58</especialidad>
+		<nombre>Tecnicatura Universitaria en Procesos Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>135</especialidad>
+		<nombre>Tecnicatura Universitaria en Procesos Productivos del Caucho</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>489</especialidad>
+		<nombre>Tecnicatura Universitaria en Producci�n Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<nombre>Tecnicatura Universitaria en Programaci�n</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>611</especialidad>
+		<nombre>Tecnicatura Universitaria en Programaci�n (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>37</especialidad>
+		<nombre>Tecnicatura Universitaria en Qu�mica * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>584</especialidad>
+		<nombre>Tecnicatura Universitaria en Radiolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>133</especialidad>
+		<nombre>Tecnicatura Universitaria en Recupero Crediticio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>215</especialidad>
+		<nombre>Tecnicatura Universitaria en Seguridad Urbana y Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<nombre>Tecnicatura Universitaria en Seguridad Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<nombre>Tecnicatura Universitaria en Sistemas Inform�ticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>505</especialidad>
+		<nombre>Tecnicatura Universitaria en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>33</especialidad>
+		<nombre>Tecnicatura Universitaria Pesquera *NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>787</especialidad>
+		<nombre>T�cnico en Electr�nica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>784</especialidad>
+		<nombre>T�cnico Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>43</especialidad>
+		<nombre>Tra.Sup.en Gesti�n de Mantenim.en Instituciones de Salud</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>953</especialidad>
+		<nombre>Trayecto de Articulaci�n para Lic. en Adm. de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>951</especialidad>
+		<nombre>Trayecto de Articulaci�n para Lic. en Enolog�a</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>950</especialidad>
+		<nombre>Trayecto de Articulaci�n para Lic. en H y S en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>952</especialidad>
+		<nombre>Trayecto de Articulaci�n para Lic.en Gest. de Emp. Tur�stic.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>957</especialidad>
+		<nombre>Trayecto de Vinculaci�n para la Lic. en Tecnolog�a Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>955</especialidad>
+		<nombre>Trayecto de Vinculaci�n para Lic. en Gesti�n Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>956</especialidad>
+		<nombre>Trayecto de Vinculaci�n para Lic. en Produc. de Bioim�genes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>954</especialidad>
+		<nombre>Trayecto de Vinculaci�n para Lic. en Tecnol. Apl. a la Seg.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>204</especialidad>
+		<nombre>Utilizaci�n de Nvos.Prod,Mat. y Residuos en las Estr.Viales</nombre>
+	</_expxml>
+</VFPData>
