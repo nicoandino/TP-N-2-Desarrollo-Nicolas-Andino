@@ -1,64 +1,95 @@
-# 🧾 Proyecto de Importación XML con Flask
+# TP N°2 - Desarrollo de Software
 
-Este proyecto es una aplicación construida con Flask que permite importar datos desde archivos XML y cargarlos en una base de datos usando SQLAlchemy.
+Este proyecto permite generar y cargar una gran cantidad de registros de alumnos en una base de datos PostgreSQL de forma eficiente. Está orientado a evaluar rendimiento, paralelización y manejo de archivos de gran tamaño
 
-## 📁 Estructura del proyecto
-Aqui estan las raices mas importantes que se utilizan
-├── app/ # aplicación Flask
-│ ├── models/ # modelos de SQLAlchemy
-│ └── ...
-├── archivados_xml/ # archivos XML a importar
-├── scripts/ # scripts de importación y ejecución
-│ ├── import_*.py
-│ └── cargatodo.py
-├── README.md
-└── ...
 ---
 
-## Instalacion
+## 🧱 1. Clonar el repositorio
 
-### 1. Clonar el repositorio
-Si no tienes GIT
-    •Descargalo https://github.com/Matute237/TP-XML 
-    y lo descomprimes donde quieras guardarlo
-Si tienes Git
-    •```bash
-    git clone https://github.com/Matute237/TP-XML 
-    cd ruta_donde_guardes_el_repositorio
+### 🔸 Si **NO** tenés Git instalado:
 
-## Crear un entorno virtual (NO es obligatorio)
-•En cmd
+1. Descargá el repositorio desde:  
+   👉 https://github.com/nicoandino/TP-N-2-Desarrollo-Nicolas-Andino.git  
+2. Descomprimilo en la carpeta donde quieras trabajar.
+
+### 🔹 Si **tenés Git** instalado:
+
+git clone https://github.com/nicoandino/TP-N-2-Desarrollo-Nicolas-Andino.git
+cd TP-N-2-Desarrollo-Nicolas-Andino
+
+------
+📦 2. Crear un entorno virtual (opcional pero recomendado)
+# en Windows
 python -m venv venv
-source venv/bin/activate    # Linux/macOS
-venv\Scripts\activate.bat   # Windows
+venv\Scripts\activate.bat
 
-## Instala requerimientos
+# en Linux/macOS
+python3 -m venv venv
+source venv/bin/activate
+
+------
+📥 3. Instalar dependencias
 pip install -r requirements.txt
 
-## Configura tu env
-TEST_DATABASE_URI='postgresql+psycopg2://tu_usuario:tu_contaseña@localhost:5432/test_sysacad'
-DEV_DATABASE_URI='postgresql+psycopg2://tu_usuario:tu_contraseña@localhost:5432/dev_sysacad'
+------
 
-## Ejecutar los Scripts
-Una vez realizaste todo lo anterior, para cargar los archivos
-Verifica:
-    •En cmd estes en la ruta donde descomprimiste el repositorio
-    •Estan todos los archivos
+🧾 Archivos principales
+📌ACLARACION IMPORTANTE📌
+El archivo no esta directamente en el repositorio porque tiene un tamaño aproximado de 140 MB
+Crearlo antes de ejecutar el script principal o cargar si se tiene unp
 
-•Una vez este todo, ejecuta
-python scripts/cargatodo.py
+"crear_csv.py"
+Este script genera un archivo llamado alumnos.csv con 2.5 millones de registros de alumnos generados aleatoriamente, respetando ciertas condiciones definidas en el código.
+Se creara y guardara en la raiz de la carpeta
 
-Si configuraste bien tu env, se cargaran TODOS los datos en sus tablas correspondientes en tu base de datos
+📌 Si querés cambiar la estructura, columnas o formato de los datos generados, modificá directamente el archivo "crear_csv.py".
+▶️ Para ejecutarlo en consola:
+Verifica: •En cmd estes en la ruta donde descomprimiste el repositorio y estan todos los archivos
 
-•Si deseas hacerlo individual ejecuta, por ejemplo
-python scripts/import_especialidades.py
+en cmd ejecuta:
+python crear_csv.py
 
-## 👨‍💻 Autores
-•Andino Nicolás Legajo N° 9935
-•Assenza Ezequiel Legajo N° 9943
-•Lopez Matias Legajo N° 10097
-•Orellana Lucas Legajo N° 10163
+📌Si ya contás con un archivo propio de alumnos en formato .csv, simplemente:
+Renombralo como "alumnos.csv".
+Ubicalo en la raíz del proyecto (es decir, en la misma carpeta donde clonaste este repositorio).
 
+------
 
+⚙️ Configuración del entorno
+Antes de continuar, asegurate de tener configurado el archivo .env con tus datos de conexión a PostgreSQL:
+SQLALCHEMY_DATABASE_URI=postgresql://usuario:contraseña@localhost:5432/dev_sysacad
 
+------
+📌🚀 Carga de datos
+Una vez generado o ubicado el archivo alumnos.csv, ejecutá el script:
+en cmd:
+python insert_alumnos.py
 
+Este archivo se encargará de insertar los registros en la base de datos utilizando paralelización y procesamiento por lotes para mejorar el rendimiento
+
+------
+⚡ Optimización
+Si querés mejorar el tiempo de carga según tu CPU y memoria RAM disponible, podés modificar las siguientes líneas en insert_alumnos.py (líneas 20 y 21 aproximadamente):
+
+BATCH_SIZE = 100_000   # Tamaño del lote de inserción
+MAX_WORKERS = 6        # Cantidad de hilos en paralelo
+
+Sugerencias:
+Si tenés más RAM, podés subir BATCH_SIZE a 200_000
+Si tenés más núcleos, podés subir MAX_WORKERS a 8 o 16.
+
+------
+
+Autor: Nicolas Andino
+Legajo N° 9935
+Tiempo alcanzado para la carga de alumnos : 23.73 segundos
+
+Probado en :
+Operating System: Windows 11 Pro 64-bit (10.0, Build 22631) (22621.ni_release.220506-1250)
+Language: Spanish (Regional Setting: Spanish)
+System Manufacturer: HP
+System Model: HP Laptop 15-dy2xxx
+BIOS: F.33 (type: UEFI)
+Processor: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz (8 CPUs), ~2.4GHz
+Memory: 8192MB RAM
+Available OS Memory: 7834MB RAM
