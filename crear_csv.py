@@ -27,7 +27,7 @@ hoy = datetime.today()
 fecha_ing_inicio = datetime(2000, 1, 1)
 delta_ing = (hoy - fecha_ing_inicio).days
 
-with open('usuarios.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('alumnos.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     # Escribimos el encabezado
     writer.writerow([
@@ -73,4 +73,4 @@ with open('usuarios.csv', 'w', newline='', encoding='utf-8') as csvfile:
             fecha_ingreso_str
         ])
 
-print(f"Archivo 'usuarios.csv' generado con {N} registros.")
+print(f"Archivo 'alumnos.csv' generado con {N} registros.")
