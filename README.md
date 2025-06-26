@@ -36,11 +36,12 @@ pip install -r requirements.txt
 🧾 Archivos principales
 📌ACLARACION IMPORTANTE📌
 El archivo no esta directamente en el repositorio porque tiene un tamaño aproximado de 140 MB
-Crearlo antes de ejecutar el script principal o cargar si se tiene unp
+Crearlo antes de ejecutar el script principal o cargar si se tiene uno
 
 "crear_csv.py"
 Este script genera un archivo llamado alumnos.csv con 2.5 millones de registros de alumnos generados aleatoriamente, respetando ciertas condiciones definidas en el código.
 Se creara y guardara en la raiz de la carpeta
+DEMORA APROXIMADAMENTE 1 MINUTO
 
 📌 Si querés cambiar la estructura, columnas o formato de los datos generados, modificá directamente el archivo "crear_csv.py".
 ▶️ Para ejecutarlo en consola:
