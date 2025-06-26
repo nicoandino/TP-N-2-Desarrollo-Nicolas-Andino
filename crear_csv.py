@@ -1,7 +1,8 @@
 import csv
 import random
 from datetime import datetime, timedelta
-
+print("Generando archivo CSV de alumnos")
+print("Demora aprox 1 minuto")
 # Cantidad de registros a generar
 N = 2_500_000
 
